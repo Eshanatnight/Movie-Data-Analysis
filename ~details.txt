@@ -1,0 +1,27 @@
+Licensing Details
+    DataSet -  CCO(Creative Commons Public Domain) or Apache 2.0 open source license.
+
+Summary
+    The provided data has 16744 rows and 16 columns.
+    There are two features "Age" and "Rotten Tomatoes" with NULL values >50% of the available data points.
+    There are 5 columns which are of Integer data-type, 6 of Object type and the rest are of Float type.
+    The data set contains data ranging from 1900 to the year 2020.
+    The Data consists of 4 major OTT platforms: "Netflix", "Hulu", "Prime videos" and "Disney+".
+    The columns: "IMDb" and "Rotten Tomatoes" are to be considered as an Interval data of type Numeric.
+    Some of the columns like "Year" and "Age" need to binned. for further analysis.
+
+Analysis and observations
+(There were missing points in the data set. An analysis has been done excluding those point)
+
+    As per the available data, the "Prime video" has the highest number movies followed by "Netflix". "Disney+" has the lowest number of movies casted.
+    Most of the movies produced were "Drama" followed by "Comedy". Almost negligible number of movies produced were of "Game-Show" genre.
+    The number of movies released under the genres "Reality-TV", "Talk-Show", "Film-Noire" and "News" were a lot less as compared to other genres.
+    The number of movies produced throughout under "Musical" and "Short" genres were almost similar.
+    As there were a large number of missing data, after removing those values it is seen that most of the movies prduced had "Rotten Tomatoes" rating >81% followed by 61% - 80%. The least number of movies produced had <20%.
+    Most of the movies released were of age group 18+. The least number of movies produced were of age group 16+.
+    Majority of the movies were released between 2000 and 2020. The least number of movies released were between 1900 and 1900.
+    According to the data, it is seen that the frequency of movie production increased along with an increase in Year. They both exhibit a positive correlation.
+    Majority of the movies has an IMDb rating ranging between 5-6 followed by 7-8.
+    The least number of movies got an IMDb rating between 9-10.
+    On the basis of given data, we can say that majority of the movies in these 4 OTT platforms are average or more than average IMDb rated.
+
