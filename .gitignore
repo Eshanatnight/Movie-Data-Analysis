@@ -1,1 +1,19 @@
+# Documents
 *.docx
+*.xls
+
+# Zipped Objects
+*.zip
+*.7z
+*.rar
+*.rar3
+
+# IDE , TextEditor and Jupyter Files and Folders
+/.vscode
+/.idea
+/venv
+
+# old Jupyter Notebook
+Movie_DataViz.ipynb
+# kept for reference
+
