@@ -25,3 +25,13 @@ Analysis and observations
     The least number of movies got an IMDb rating between 9-10.
     On the basis of given data, we can say that majority of the movies in these 4 OTT platforms are average or more than average IMDb rated.
 
+Conclution
+    We see that there is a direct corolation in then increase in production of movie content and higher rating of said movies. This
+    was expected as with the sample space increasing the resultant space would also be subject to increase.
+    We can say that majority of the population of a certain region like the Drama Genre.
+    we can also say that with the increase in production of movies after 20th Century, and henceforth degitization of consumption of media
+    Creative vision of the directors also increased and became more prominent; this was considered as a bias to our Experiment as often
+    highly creative stories apreciated by the general consumer but we were proven wrong.
+    We also saw that the age demographic has an effect on the reception of the movie not only because the fact that the demographic over the age of
+    18 has more content made to their liking but also allows for making of gripping stories, and stories that that section of the region are
+    represented and that tackel issues that the population will and or are facing that inherently get better ratings.
