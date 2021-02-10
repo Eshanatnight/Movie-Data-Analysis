@@ -1,6 +1,7 @@
 # Documents
 *.docx
 *.xls
+*.pdf
 
 # Zipped Objects
 *.zip
